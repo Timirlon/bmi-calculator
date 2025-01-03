@@ -16,8 +16,3 @@ A simple BMI Calculator web application built with Node.js. It calculates the BM
 3. Run `npm install` terminal command
 4. Then, `node server.js`
 5. When server is launched you can use the calculator, following <a href="https://localhost:3000">`https://localhost:3000`</a>
-=======
-3. Run terminal command: npm init -y
-4. Then: node server.js
-5. When server is launched you can use the calculator following: https://localhost:3000
->>>>>>> 246b230c1382193ef1aebe6a5fa707da9797a221
